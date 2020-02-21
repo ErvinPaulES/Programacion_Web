@@ -15,3 +15,7 @@ greet3b.greet();
 var greet4 = require('./Greet4');
 var grtr = new greet4();
 grtr.greet();
+
+x=100;
+var x;
+console.log(x);
